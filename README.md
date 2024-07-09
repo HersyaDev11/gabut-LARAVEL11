@@ -65,5 +65,5 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
-## PICT RUNNING 
-<img src="photos.png"> </img>
+## Pict running
+![![photos](https://github.com/HersyaDev11/gabut-LARAVEL11/assets/145486775/4b9eb9f2-800e-4e2a-a8a2-7ea7c922605b)](https://github.com/HersyaDev11/HersyaDev11/assets/145486775/0b336135-185e-4e89-9756-984ed6cf790c)
